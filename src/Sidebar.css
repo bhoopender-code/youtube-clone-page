@@ -1,0 +1,15 @@
+.sidebar {
+    /* border: 2px solid; */
+    /* display: flex; */
+    flex: 0.2;
+    /* background-color: red; */
+    /* border-right: 4px solid red; */
+}
+
+.sidebar > hr {
+    height: 1px;
+    border: 0;
+    background-color: lightgray;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
